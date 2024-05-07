@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d73cd5f6-9cfe-4c8c-a744-12f7cfe110c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/DomainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/TesteImposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/CalculadorDeDescontos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/Desconto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/DescontoParaOrcamentoComMaisDeCincoItens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/DescontoParaOrcamentoComValorMaiorDoQueQuinhentos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/desconto/SemDesconto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/CalculadoraDeImpostos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/ICMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/ISS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/Imposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/orcamento/Orcamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/pedido/GeraPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/pedido/GeraPedidoHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/pedido/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/pedido/acao/AcaoAposGerarPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/pedido/acao/EnviarEmailPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/pedido/acao/SalvarPedidoNoBancoDeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/situacao/Aprovado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/situacao/EmAnalise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/situacao/Finalizado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/situacao/Reprovado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/situacao/SituacaoOrcamento.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2fv8tOA5KQ7V7Q0U75iLcDAN320" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lcorr/OneDrive/Área de Trabalho/cusos empresa/Java/Design patterns em Java/DesignPatternsJava/loja/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.loja.imposto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TesteImposto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.loja.TesteImposto" />
+      <module name="loja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.loja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteImposto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d73cd5f6-9cfe-4c8c-a744-12f7cfe110c1" name="Changes" comment="" />
+      <created>1714670407455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714670407455</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
